@@ -1,0 +1,28 @@
+name: StudentLinkGlobal
+favicon: null
+layout_spectrum: 0.4676648920867592
+typography_spectrum: 0.8390902716200799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7556730925571173
+  lightness: 0.7988613222260028
+  saturation: 0.6292220850009471
+  rhythmicContrast: 0.9017831517849118
+purpose: []
